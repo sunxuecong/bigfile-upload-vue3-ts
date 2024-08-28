@@ -18,4 +18,4 @@ npm run start-server
 npm run dev
 ```
 
-![images](./screenshots/upload.png)
+![images](./screenshots/shot.png)
