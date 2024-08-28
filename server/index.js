@@ -8,7 +8,7 @@ const SparkMD5 = require('spark-md5')
 
 const HOST = 'http://127.0.0.1'
 const PORT = 8088
-const HOSTNAME = `${HOST}:${PORT}`
+const HOSTNAME = `${HOST}:${PORT}`  
 const uploadDir = `${__dirname}/uploads`
 
 const app = express()

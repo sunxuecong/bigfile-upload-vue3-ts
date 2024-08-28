@@ -1,2 +1,21 @@
-# bigfile-upload-vue3-ts
-vue3+ts大文件上传，支持分片上传，断点续传，和显示上传进度。 后端使用node + express
+## 大文件上传的解决方案
+
+### 服务端
+
+后端使用 node提供服务服务，代码在 server 目录下。
+
+启动服务:
+
+```bash
+npm run start-server
+```
+
+### Vue 前端
+
+前端是基于 Vue3 + Ts 搭建的
+
+```bash
+npm run dev
+```
+
+![images](./screenshots/upload.png)
